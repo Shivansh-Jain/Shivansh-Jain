@@ -100,8 +100,9 @@
 )[
   #bul(
     [Promoted to Senior AI/ML Engineer within *6 months* for leading scalable enterprise conversational AI platform initiatives; awarded *"Thalaivar of the Year"* (Employee of the Year).],
-    [Led architecture of *Convergent Accelerator* — transforming a telephony POC into an omni-channel conversational AI platform supporting SIP calling, WebRTC, WhatsApp/chat, multilingual conversations, and agent assist.],
+    [Led architecture of *Convogent Accelerator* — transforming a telephony POC into an omni-channel conversational AI platform supporting SIP calling, WebRTC, WhatsApp/chat, multilingual conversations, and agent assist.],
     [Deployed microservices-based infrastructure on *Amazon EKS* with independently scalable services for orchestration, voice pipelines, analytics, and evaluation; integrated *KEDA* for dynamic autoscaling.],
+    [Leveraged *AWS cloud services* including EKS, ECS, Lambda, S3, API Gateway, ALB, NLB, Cognito, and AWS DocumentDB for scalable, secure, and production-ready enterprise deployments.],
     [Integrated *Kafka* for real-time event orchestration, conversational state management, CRM synchronization, and distributed workflow execution.],
     [Built a no-code flow-based conversational orchestration engine enabling enterprise users to configure workflows, branching logic, escalation paths, and AI behavior directly from the UI.],
     [Architected multilingual AI infrastructure with runtime switching between STT, TTS, and LLM providers including *ElevenLabs, Cartesia, Deepgram, Sarvam, AWS Bedrock, OpenAI*, and custom inference endpoints.],
@@ -195,7 +196,7 @@
 #skill-row("ML / DL",
   "PyTorch, Scikit-learn, NumPy, Pandas, SpaCy, Deep Learning, Sentiment Classification")
 #skill-row("MLOps & Infra",
-  "Amazon EKS, KEDA, Apache Kafka, Docker, Kubernetes, OpenTelemetry, Grafana, AWS Bedrock, ElevenLabs, Linux")
+  "Amazon EKS, ECS, Lambda, S3, API Gateway, ALB, NLB, AWS Cognito, KEDA, Apache Kafka, Docker, Kubernetes, OpenTelemetry, Grafana, AWS Bedrock, ElevenLabs, Linux")
 #skill-row("Vector & Data",
   "Qdrant, OpenSearch, PostgreSQL, MongoDB / AWS DocumentDB, Redis, MySQL, SQLite")
 #skill-row("Web & APIs",
